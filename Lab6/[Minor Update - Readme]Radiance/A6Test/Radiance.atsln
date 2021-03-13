@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ApplicationCode", "SD_MMC_EXAMPLE_MainProgram_SPRING2019 - Copy\ApplicationCode.cproj", "{465C51AE-0526-415A-954A-CA7A362A2DD1}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Bootloader", "SD_MMC_EXAMPLE_Bootloader_ESE516_SPRING2019\Bootloader.cproj", "{E5CF707D-92F4-4BCA-86AB-DB91A8DA0196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465C51AE-0526-415A-954A-CA7A362A2DD1}.Debug|ARM.ActiveCfg = Debug|ARM
+		{465C51AE-0526-415A-954A-CA7A362A2DD1}.Debug|ARM.Build.0 = Debug|ARM
+		{465C51AE-0526-415A-954A-CA7A362A2DD1}.Release|ARM.ActiveCfg = Release|ARM
+		{465C51AE-0526-415A-954A-CA7A362A2DD1}.Release|ARM.Build.0 = Release|ARM
+		{E5CF707D-92F4-4BCA-86AB-DB91A8DA0196}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E5CF707D-92F4-4BCA-86AB-DB91A8DA0196}.Debug|ARM.Build.0 = Debug|ARM
+		{E5CF707D-92F4-4BCA-86AB-DB91A8DA0196}.Release|ARM.ActiveCfg = Release|ARM
+		{E5CF707D-92F4-4BCA-86AB-DB91A8DA0196}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
