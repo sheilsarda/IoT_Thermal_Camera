@@ -18,3 +18,5 @@ Our A6 Bootloader code can be found in the A6 folder in our project directory.
 For the purposes of adding modules that we will be using in our final project, we added the Sercom I2C slave and master drivers, in addition to the Sercom SPI serial driver.
 
 For testing purposes, we have also attateched the pre-OTAFU bin files and CRC files, which our bootloader expects to be loaded on the SD Card prior to boot. The post-OTAFU equivalents are hosted on the Penn server.
+
+End to end OTAFU Demo: https://www.youtube.com/watch?v=R9AgcVQNr38
